@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Power BI e ETL**
 
-- 💬 Me pergunte sobre **SQL, Power BI, ETL, Excel e Python**
+- 💬 Me pergunte sobre **SQL, Power BI, ETL, Google Sheets e Python**
 
 - 📫 Você me acha através do e-mail **brn.1@hotmail.com**
 
