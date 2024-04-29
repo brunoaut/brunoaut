@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
-- 🔭 Atualmente estou trabalhando em algo interessante :wink:
+- 🔭 Atualmente estou trabalhando em algo inovador :wink:
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Power BI e ETL**
 
